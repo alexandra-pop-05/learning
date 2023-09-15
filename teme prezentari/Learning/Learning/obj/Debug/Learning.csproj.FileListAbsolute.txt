@@ -1,0 +1,8 @@
+C:\Users\CiprianaPop\Desktop\project\Learning\Learning\bin\Debug\Learning.exe.config
+C:\Users\CiprianaPop\Desktop\project\Learning\Learning\bin\Debug\Learning.exe
+C:\Users\CiprianaPop\Desktop\project\Learning\Learning\bin\Debug\Learning.pdb
+C:\Users\CiprianaPop\Desktop\project\Learning\Learning\obj\Debug\Learning.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\project\Learning\Learning\obj\Debug\Learning.csproj.SuggestedBindingRedirects.cache
+C:\Users\CiprianaPop\Desktop\project\Learning\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\project\Learning\Learning\obj\Debug\Learning.exe
+C:\Users\CiprianaPop\Desktop\project\Learning\Learning\obj\Debug\Learning.pdb

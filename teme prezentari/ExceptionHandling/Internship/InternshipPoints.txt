@@ -1,0 +1,20 @@
+Debugging
+
+Watch Window
+
+Immediate Window
+
+CallStack Window
+
+Nullable Types
+
+Conditional Compilation
+
+Logging - Serilog
+
+Exception Handling
+
+
+
+-> Request -> Controller -> Pipelines , LoggerPipeline -> CommandHandler
+			<-			<-				<-

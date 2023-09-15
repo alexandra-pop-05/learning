@@ -1,0 +1,8 @@
+C:\Users\CiprianaPop\Desktop\project\TWproject\TWproject\bin\Debug\TWproject.exe.config
+C:\Users\CiprianaPop\Desktop\project\TWproject\TWproject\bin\Debug\TWproject.exe
+C:\Users\CiprianaPop\Desktop\project\TWproject\TWproject\bin\Debug\TWproject.pdb
+C:\Users\CiprianaPop\Desktop\project\TWproject\TWproject\obj\Debug\TWproject.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\project\TWproject\TWproject\obj\Debug\TWproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\CiprianaPop\Desktop\project\TWproject\TWproject\obj\Debug\TWproject.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\project\TWproject\TWproject\obj\Debug\TWproject.exe
+C:\Users\CiprianaPop\Desktop\project\TWproject\TWproject\obj\Debug\TWproject.pdb

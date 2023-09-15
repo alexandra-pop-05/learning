@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Teammates</title>
+    <link rel="stylesheet" href="styleTeammates.css" />
+    <script
+      src="https://kit.fontawesome.com/fbc12a944c.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <nav>
+      <div class="logo-container">
+        <div class="logo">
+          <img
+            src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\Group 405.png"
+            alt="Logo"
+            class="logo-image"
+          />
+        </div>
+      </div>
+      <div class="nav-links">
+        <span id="dashboard-link"> Dashboard </span>
+        <span id="teammates-link"> Teammates </span>
+        <span id="myproject-link"> My project </span>
+      </div>
+      <div class="side-container">
+        <div class="side-container-dropdown">
+          <select class="select-options" name="language" id="language">
+            <option value="en">EN</option>
+            <option value="ro">RO</option>
+          </select>
+        </div>
+        <div class="side-container-icon">
+          <img
+            src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\bell-icon.png"
+            alt="Icon"
+            class="icon-image"
+          />
+        </div>
+        <div class="side-container-avatar">
+          <span class="avatar-circle">
+            <div class="avatar-circle-text">JJ</div>
+          </span>
+          <div class="user-info">
+            <span class="user-email">maria.csete@techquarter.io</span>
+            <span class="user-role">User</span>
+          </div>
+          <span class="dropdown-icon">
+            <img
+              src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\dropdown.png"
+              alt="Icon"
+              class="dropdown-image"
+            />
+          </span>
+        </div>
+      </div>
+    </nav>
+    <div class="content-wrapper">
+      <h1 class="header">Teammates</h1>
+      <div class="filters-container">
+        <div class="filters-container-title">Filters</div>
+        <div class="filters-content">
+          <span class="filters-select-content">
+            <div class="filter-title">Town</div>
+            <select class="select-container" aria-placeholder="Select">
+              <option name="town">Chisinau, Moldova</option>
+              <option name="town">Cluj-Napoca, Cluj</option>
+            </select>
+          </span>
+          <span class="filters-select-content">
+            <div class="filter-title">Seniority</div>
+            <select class="select-container" aria-placeholder="Select">
+              <option name="seniority">senior</option>
+              <option name="seniority">mid</option>
+              <option name="seniority">junior</option>
+            </select>
+          </span>
+          <span class="filters-select-content">
+            <div class="filter-title">Role</div>
+            <select class="select-container" aria-placeholder="Select">
+              <option name="role">Android-developer</option>
+              <option name="role">Java-developer</option>
+              <option name="role">UI/UX Designer</option>
+              <option name="role">Project Manager</option>
+            </select>
+          </span>
+          <span class="filters-select-content">
+            <div class="filter-title">Join Date</div>
+            <input type="date" class="select-date-container" />
+          </span>
+          <button type="button" class="apply-button">Apply</button>
+        </div>
+        <div class="filter-search-title">Search</div>
+        <div class="filter-search">
+          <input type="text" class="search-input-field" placeholder="Search" />
+          <img
+            src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\search-icon.png"
+            alt="Icon"
+            class="search-icon-image"
+          />
+        </div>
+      </div>
+      <div class="members-container">
+        <div class="members-container-title">Members</div>
+        <div class="cards-table-switch">
+          <span class="cards-switch"> Cards </span>
+          <label class="switch">
+            <input type="checkbox" />
+            <span class="slider round"></span>
+          </label>
+          <span class="table-switch">Table</span>
+        </div>
+        <div class="members-wrapper">
+          <div class="member-card">
+            <div class="card-header">
+              <div class="user-image"></div>
+              <div class="user-header-info">
+                <div class="user-name">Alex Natea</div>
+                <div class="user-nickname">aka Alex</div>
+                <div class="user-seniority">Seniority: Senior</div>
+              </div>
+            </div>
+            <div class="card-content">
+              <div class="project-name">LITTLEPAY</div>
+              <div class="user-role-highlight">Android Developer</div>
+              <div class="user-mail">
+                <i class="fa-regular fa-envelope"></i>
+                <span class="email">alicia.vikander@merchant.com</span>
+                <i class="fa-regular fa-copy"></i>
+              </div>
+              <div class="user-town">
+                <i class="fa-solid fa-house"></i>
+                <span class="user-town-name">Chisinau, Moldova</span>
+              </div>
+            </div>
+            <div class="card-footer">
+              <span class="here-from-date">Here from 12/3/2023</span>
+              <span class="more-button-container">
+                <button type="button" class="more-button">MORE</button>
+                <i class="fa-solid fa-chevron-right"></i>
+              </span>
+            </div>
+          </div>
+          <div class="member-card">
+            <div class="card-header">
+              <div class="user-image"></div>
+              <div class="user-header-info">
+                <div class="user-name">Alex Natea</div>
+                <div class="user-nickname">aka Alex</div>
+                <div class="user-seniority">Seniority: Senior</div>
+              </div>
+            </div>
+            <div class="card-content">
+              <div class="project-name">LITTLEPAY</div>
+              <div class="user-role-highlight">Android Developer</div>
+              <div class="user-mail">
+                <i class="fa-regular fa-envelope"></i>
+                <span class="email">alicia.vikander@merchant.com</span>
+                <i class="fa-regular fa-copy"></i>
+              </div>
+              <div class="user-town">
+                <i class="fa-solid fa-house"></i>
+                <span class="user-town-name">Chisinau, Moldova</span>
+              </div>
+            </div>
+            <div class="card-footer">
+              <span class="here-from-date">Here from 12/3/2023</span>
+              <span class="more-button-container">
+                <button type="button" class="more-button">MORE</button>
+                <i class="fa-solid fa-chevron-right"></i>
+              </span>
+            </div>
+          </div>
+          <div class="member-card">
+            <div class="card-header">
+              <div class="user-image"></div>
+              <div class="user-header-info">
+                <div class="user-name">Alex Natea</div>
+                <div class="user-nickname">aka Alex</div>
+                <div class="user-seniority">Seniority: Senior</div>
+              </div>
+            </div>
+            <div class="card-content">
+              <div class="project-name">LITTLEPAY</div>
+              <div class="user-role-highlight">Android Developer</div>
+              <div class="user-mail">
+                <i class="fa-regular fa-envelope"></i>
+                <span class="email">alicia.vikander@merchant.com</span>
+                <i class="fa-regular fa-copy"></i>
+              </div>
+              <div class="user-town">
+                <i class="fa-solid fa-house"></i>
+                <span class="user-town-name">Chisinau, Moldova</span>
+              </div>
+            </div>
+            <div class="card-footer">
+              <span class="here-from-date">Here from 12/3/2023</span>
+              <span class="more-button-container">
+                <button type="button" class="more-button">MORE</button>
+                <i class="fa-solid fa-chevron-right"></i>
+              </span>
+            </div>
+          </div>
+          <div class="member-card">
+            <div class="card-header">
+              <div class="user-image"></div>
+              <div class="user-header-info">
+                <div class="user-name">Alex Natea</div>
+                <div class="user-nickname">aka Alex</div>
+                <div class="user-seniority">Seniority: Senior</div>
+              </div>
+            </div>
+            <div class="card-content">
+              <div class="project-name">LITTLEPAY</div>
+              <div class="user-role-highlight">Android Developer</div>
+              <div class="user-mail">
+                <i class="fa-regular fa-envelope"></i>
+                <span class="email">alicia.vikander@merchant.com</span>
+                <i class="fa-regular fa-copy"></i>
+              </div>
+              <div class="user-town">
+                <i class="fa-solid fa-house"></i>
+                <span class="user-town-name">Chisinau, Moldova</span>
+              </div>
+            </div>
+            <div class="card-footer">
+              <span class="here-from-date">Here from 12/3/2023</span>
+              <span class="more-button-container">
+                <button type="button" class="more-button">MORE</button>
+                <i class="fa-solid fa-chevron-right"></i>
+              </span>
+            </div>
+          </div>
+          <div class="member-card">
+            <div class="card-header">
+              <div class="user-image"></div>
+              <div class="user-header-info">
+                <div class="user-name">Alex Natea</div>
+                <div class="user-nickname">aka Alex</div>
+                <div class="user-seniority">Seniority: Senior</div>
+              </div>
+            </div>
+            <div class="card-content">
+              <div class="project-name">LITTLEPAY</div>
+              <div class="user-role-highlight">Android Developer</div>
+              <div class="user-mail">
+                <i class="fa-regular fa-envelope"></i>
+                <span class="email">alicia.vikander@merchant.com</span>
+                <i class="fa-regular fa-copy"></i>
+              </div>
+              <div class="user-town">
+                <i class="fa-solid fa-house"></i>
+                <span class="user-town-name">Chisinau, Moldova</span>
+              </div>
+            </div>
+            <div class="card-footer">
+              <span class="here-from-date">Here from 12/3/2023</span>
+              <span class="more-button-container">
+                <button type="button" class="more-button">MORE</button>
+                <i class="fa-solid fa-chevron-right"></i>
+              </span>
+            </div>
+          </div>
+          <div class="member-card">
+            <div class="card-header">
+              <div class="user-image"></div>
+              <div class="user-header-info">
+                <div class="user-name">Alex Natea</div>
+                <div class="user-nickname">aka Alex</div>
+                <div class="user-seniority">Seniority: Senior</div>
+              </div>
+            </div>
+            <div class="card-content">
+              <div class="project-name">LITTLEPAY</div>
+              <div class="user-role-highlight">Android Developer</div>
+              <div class="user-mail">
+                <i class="fa-regular fa-envelope"></i>
+                <span class="email">alicia.vikander@merchant.com</span>
+                <i class="fa-regular fa-copy"></i>
+              </div>
+              <div class="user-town">
+                <i class="fa-solid fa-house"></i>
+                <span class="user-town-name">Chisinau, Moldova</span>
+              </div>
+            </div>
+            <div class="card-footer">
+              <span class="here-from-date">Here from 12/3/2023</span>
+              <span class="more-button-container">
+                <button type="button" class="more-button">MORE</button>
+                <i class="fa-solid fa-chevron-right"></i>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1Dyknic2rqvKD6HVji99+rtMZbV7EM42VYmjWo15cOywT6vBw1npvJCR1akvBDm+3oXpRz/4ZbCSNnVXZbF6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CiprianaPop\\Desktop\\teme prezentari\\WebApiMiddleware\\Ex\\WebApi.Domain\\WebApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CiprianaPop\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

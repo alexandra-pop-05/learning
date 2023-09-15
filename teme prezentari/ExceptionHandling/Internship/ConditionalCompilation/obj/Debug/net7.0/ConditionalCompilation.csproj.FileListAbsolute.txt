@@ -1,0 +1,15 @@
+E:\_Work\Internship\ConditionalCompilation\bin\Debug\net7.0\ConditionalCompilation.exe
+E:\_Work\Internship\ConditionalCompilation\bin\Debug\net7.0\ConditionalCompilation.deps.json
+E:\_Work\Internship\ConditionalCompilation\bin\Debug\net7.0\ConditionalCompilation.runtimeconfig.json
+E:\_Work\Internship\ConditionalCompilation\bin\Debug\net7.0\ConditionalCompilation.dll
+E:\_Work\Internship\ConditionalCompilation\bin\Debug\net7.0\ConditionalCompilation.pdb
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\ConditionalCompilation.csproj.AssemblyReference.cache
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\ConditionalCompilation.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\ConditionalCompilation.AssemblyInfoInputs.cache
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\ConditionalCompilation.AssemblyInfo.cs
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\ConditionalCompilation.csproj.CoreCompileInputs.cache
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\ConditionalCompilation.dll
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\refint\ConditionalCompilation.dll
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\ConditionalCompilation.pdb
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\ConditionalCompilation.genruntimeconfig.cache
+E:\_Work\Internship\ConditionalCompilation\obj\Debug\net7.0\ref\ConditionalCompilation.dll

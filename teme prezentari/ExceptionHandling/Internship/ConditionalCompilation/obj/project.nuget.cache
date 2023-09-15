@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hULaGikBNWsbJQdFgu4trTTfcBqvX08SGLTNo7cfuZfWLAEU5FhnGAUTTqiDV7dLz3jvvc58PF/gfVyixU/H/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CiprianaPop\\Desktop\\teme prezentari\\ExceptionHandling\\Internship\\ConditionalCompilation\\ConditionalCompilation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CiprianaPop\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\CiprianaPop\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\CiprianaPop\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

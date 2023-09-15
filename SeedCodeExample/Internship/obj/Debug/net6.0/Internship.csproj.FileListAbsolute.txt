@@ -1,0 +1,7 @@
+C:\Users\virgi\source\repos\Internship\obj\Debug\net6.0\Internship.csproj.AssemblyReference.cache
+C:\Users\virgi\source\repos\Internship\obj\Debug\net6.0\Internship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\source\repos\Internship\obj\Debug\net6.0\Internship.AssemblyInfoInputs.cache
+C:\Users\virgi\source\repos\Internship\obj\Debug\net6.0\Internship.AssemblyInfo.cs
+C:\Users\virgi\source\repos\Internship\obj\Debug\net6.0\Internship.csproj.CoreCompileInputs.cache
+C:\Users\virgi\source\repos\Internship\obj\Debug\net6.0\Internship.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\virgi\source\repos\Internship\obj\Debug\net6.0\Internship.MvcApplicationPartsAssemblyInfo.cache

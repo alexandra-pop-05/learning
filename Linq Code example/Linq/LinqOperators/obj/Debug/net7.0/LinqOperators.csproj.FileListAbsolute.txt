@@ -1,0 +1,30 @@
+/Users/petrulutenco/Projects/Linq/LinqOperators/bin/Debug/net7.0/LinqOperators
+/Users/petrulutenco/Projects/Linq/LinqOperators/bin/Debug/net7.0/LinqOperators.deps.json
+/Users/petrulutenco/Projects/Linq/LinqOperators/bin/Debug/net7.0/LinqOperators.runtimeconfig.json
+/Users/petrulutenco/Projects/Linq/LinqOperators/bin/Debug/net7.0/LinqOperators.dll
+/Users/petrulutenco/Projects/Linq/LinqOperators/bin/Debug/net7.0/LinqOperators.pdb
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/LinqOperators.csproj.AssemblyReference.cache
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/LinqOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/LinqOperators.AssemblyInfoInputs.cache
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/LinqOperators.AssemblyInfo.cs
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/LinqOperators.csproj.CoreCompileInputs.cache
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/LinqOperators.dll
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/refint/LinqOperators.dll
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/LinqOperators.pdb
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/LinqOperators.genruntimeconfig.cache
+/Users/petrulutenco/Projects/Linq/LinqOperators/obj/Debug/net7.0/ref/LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\bin\Debug\net7.0\LinqOperators.exe
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\bin\Debug\net7.0\LinqOperators.deps.json
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\bin\Debug\net7.0\LinqOperators.runtimeconfig.json
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\bin\Debug\net7.0\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\bin\Debug\net7.0\LinqOperators.pdb
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\LinqOperators.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\LinqOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\LinqOperators.AssemblyInfoInputs.cache
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\LinqOperators.AssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\LinqOperators.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\refint\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\LinqOperators.pdb
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\LinqOperators.genruntimeconfig.cache
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\LinqOperators\obj\Debug\net7.0\ref\LinqOperators.dll

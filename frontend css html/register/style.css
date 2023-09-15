@@ -1,0 +1,128 @@
+#root {
+  height: 100vh;
+  width: 100vh;
+}
+body {
+  height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+}
+.wrapper {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  width: 100%;
+  height: 100%;
+  justify-items: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+.first {
+  background-color: #ffffff;
+  grid-row: 1;
+  height: 100%;
+  width: 100%;
+}
+.second {
+  background-color: #f6921e;
+  grid-row: 2;
+  height: 100%;
+  width: 100%;
+}
+
+.box-container {
+  width: 480px;
+  height: 565px;
+  padding: 20px;
+  position: absolute;
+}
+
+.login-container {
+  gap: 20px;
+  background-color: #ffffff;
+  width: 480px;
+  height: auto;
+  padding: 40px 50px;
+  border-radius: 8px;
+  position: absolute;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.login-container h1 {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 20px;
+}
+.login-container p {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+}
+.form {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  justify-content: center;
+}
+.input-container {
+  margin-top: 35px;
+}
+.input-field {
+  width: 485px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+.input-field p {
+  justify-self: start;
+  color: #334155;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  margin-bottom: 5px;
+}
+.input-field input {
+  width: 485px;
+  height: 38px;
+  border-radius: 6px;
+  border: 1px solid #e2e8f0; /* Use a simple border instead of border-color */
+  padding-left: 5px;
+}
+
+.forgot-password {
+  margin-top: 20px;
+}
+
+.register {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.forgot-password p,
+.register p {
+  color: #334155;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.forgot-password span,
+.register span {
+  color: #fd881c;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  text-decoration-line: underline;
+  margin-left: 5px;
+}
+
+.btn {
+  background-color: #fd881c;
+  color: white;
+  width: 483px;
+  height: 38px;
+  padding: 9px, 20px, 9px, 20px;
+  border-radius: 6px;
+  border-width: 0;
+  margin-top: 20px;
+}
+
+.logo {
+}

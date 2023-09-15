@@ -1,0 +1,117 @@
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\appsettings.Development.json
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\appsettings.json
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.exe
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.deps.json
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.runtimeconfig.json
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.dll
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.pdb
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\FluentValidation.dll
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\MediatR.dll
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\_Work\Internship\InternshipExamples\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.csproj.AssemblyReference.cache
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.AssemblyInfoInputs.cache
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.AssemblyInfo.cs
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.csproj.CoreCompileInputs.cache
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.MvcApplicationPartsAssemblyInfo.cs
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.MvcApplicationPartsAssemblyInfo.cache
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.InternshipExamples.Microsoft.AspNetCore.StaticWebAssets.props
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.build.InternshipExamples.props
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InternshipExamples.props
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InternshipExamples.props
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets.pack.json
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets.build.json
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets.development.json
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\scopedcss\bundle\InternshipExamples.styles.css
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.csproj.CopyComplete
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.dll
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\refint\InternshipExamples.dll
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.pdb
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.genruntimeconfig.cache
+E:\_Work\Internship\InternshipExamples\obj\Debug\net7.0\ref\InternshipExamples.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\appsettings.json
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.exe
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.deps.json
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.runtimeconfig.json
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.pdb
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\MediatR.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.AssemblyInfoInputs.cache
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.AssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.InternshipExamples.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.build.InternshipExamples.props
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InternshipExamples.props
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InternshipExamples.props
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\scopedcss\bundle\InternshipExamples.styles.css
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.csproj.CopyComplete
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\refint\InternshipExamples.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.pdb
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.genruntimeconfig.cache
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\ref\InternshipExamples.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Serilog.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\CiprianaPop\Desktop\project\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.AssemblyInfoInputs.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.AssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\refint\InternshipExamples.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.pdb
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\appsettings.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.exe
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.deps.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.runtimeconfig.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\InternshipExamples.pdb
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\MediatR.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Serilog.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.InternshipExamples.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.build.InternshipExamples.props
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InternshipExamples.props
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InternshipExamples.props
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\scopedcss\bundle\InternshipExamples.styles.css
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.csproj.CopyComplete
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\InternshipExamples.genruntimeconfig.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\ExceptionHandling\Internship\InternshipExamples\obj\Debug\net7.0\ref\InternshipExamples.dll

@@ -1,0 +1,31 @@
+﻿namespace WebApi.Ex.Middlewares
+{
+    public class LoggingMiddleware
+    {
+        private readonly RequestDelegate _next;
+        private readonly ILogger _logger;
+
+        public LoggingMiddleware(RequestDelegate next, ILogger<LoggingMiddleware> logger)
+        {
+            _next=next;
+            _logger=logger;
+        }
+
+        public async Task InvokeAsync(HttpContext context)
+        {
+            //luam path-ul din request si il logam
+            _logger.Log(LogLevel.Information, "========================================================");
+            _logger.Log(LogLevel.Information, "REQUEST PATH: " + context.Request.Path);
+
+            //next middleware
+            await _next(context);
+
+            //se intoarce - luam content type-ul si il logam 
+            var contentType = context.Response.ContentType;
+
+            _logger.Log(LogLevel.Information, "========================================================");
+
+            _logger.Log(LogLevel.Information, contentType);
+        }
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\bin\Debug\net7.0\GenericsCollections.exe
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\bin\Debug\net7.0\GenericsCollections.deps.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\bin\Debug\net7.0\GenericsCollections.runtimeconfig.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\bin\Debug\net7.0\GenericsCollections.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\bin\Debug\net7.0\GenericsCollections.pdb
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\GenericsCollections.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\GenericsCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\GenericsCollections.AssemblyInfoInputs.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\GenericsCollections.AssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\GenericsCollections.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\GenericsCollections.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\refint\GenericsCollections.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\GenericsCollections.pdb
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\GenericsCollections.genruntimeconfig.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\GenericsProject\GenericsCollections\obj\Debug\net7.0\ref\GenericsCollections.dll

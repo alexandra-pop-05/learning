@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3A4150CF-2FE3-4BD1-A4DC-C0A16269CE5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Linq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YieldReturnExample/YieldReturnExample.cs">
+    <Files>
+      <File FileName="Linq/Program.cs" Line="24" Column="1" />
+      <File FileName="Linq/YieldReturnExample.cs" Line="20" Column="14" />
+      <File FileName="LinqOperators/Program.cs" Line="7" Column="1" />
+      <File FileName="LinqOperators/Student.cs" Line="38" Column="12" />
+      <File FileName="LinqOperators/LinqOperators.csproj" Line="7" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Linq" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LinqOperators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.YieldReturnExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

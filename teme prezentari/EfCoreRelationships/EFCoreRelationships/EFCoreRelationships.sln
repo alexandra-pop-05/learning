@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreRelationships", "EFCoreRelationships\EFCoreRelationships.csproj", "{690457BB-BEA7-4355-B356-B415271C6C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690457BB-BEA7-4355-B356-B415271C6C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690457BB-BEA7-4355-B356-B415271C6C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690457BB-BEA7-4355-B356-B415271C6C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690457BB-BEA7-4355-B356-B415271C6C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A0BF2B2-F3FA-476F-9409-999671892334}
+	EndGlobalSection
+EndGlobal

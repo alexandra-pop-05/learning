@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Collections",
+    "\\GenericRepository",
+    "\\GenericRepository\\Entities",
+    "\\GenericRepository\\Repositories",
+    "\\GenericRepository\\Services",
+    "\\Generics"
+  ],
+  "SelectedNode": "\\GenericRepository\\Repositories\\StudentRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

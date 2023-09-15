@@ -1,0 +1,76 @@
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\appsettings.Development.json
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\appsettings.json
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.exe
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.deps.json
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.runtimeconfig.json
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.pdb
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Domain.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Domain.pdb
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.csproj.AssemblyReference.cache
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.AssemblyInfoInputs.cache
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.AssemblyInfo.cs
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.csproj.CoreCompileInputs.cache
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Ex.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.Ex.props
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.Ex.props
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.Ex.props
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets.build.json
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets.development.json
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\scopedcss\bundle\WebApi.Ex.styles.css
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.csproj.CopyComplete
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\refint\WebApi.Ex.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.pdb
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.genruntimeconfig.cache
+D:\Work\POC\Internship\Ex\WebApi.Ex\obj\Debug\net7.0\ref\WebApi.Ex.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\FluentValidation.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\Work\POC\Internship\Ex\WebApi.Ex\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\appsettings.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.exe
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.deps.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.runtimeconfig.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Ex.pdb
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Domain.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\bin\Debug\net7.0\WebApi.Domain.pdb
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.AssemblyInfoInputs.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.AssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Ex.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.Ex.props
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.Ex.props
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.Ex.props
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\scopedcss\bundle\WebApi.Ex.styles.css
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.csproj.CopyComplete
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\refint\WebApi.Ex.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.pdb
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\WebApi.Ex.genruntimeconfig.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\WebApiMiddleware\Ex\WebApi.Ex\obj\Debug\net7.0\ref\WebApi.Ex.dll

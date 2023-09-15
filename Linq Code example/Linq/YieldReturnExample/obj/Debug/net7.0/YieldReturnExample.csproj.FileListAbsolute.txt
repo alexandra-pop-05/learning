@@ -1,0 +1,30 @@
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/bin/Debug/net7.0/YieldReturnExample
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/bin/Debug/net7.0/YieldReturnExample.deps.json
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/bin/Debug/net7.0/YieldReturnExample.runtimeconfig.json
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/bin/Debug/net7.0/YieldReturnExample.dll
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/bin/Debug/net7.0/YieldReturnExample.pdb
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/YieldReturnExample.csproj.AssemblyReference.cache
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/YieldReturnExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/YieldReturnExample.AssemblyInfoInputs.cache
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/YieldReturnExample.AssemblyInfo.cs
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/YieldReturnExample.csproj.CoreCompileInputs.cache
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/YieldReturnExample.dll
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/refint/YieldReturnExample.dll
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/YieldReturnExample.pdb
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/YieldReturnExample.genruntimeconfig.cache
+/Users/petrulutenco/Projects/Linq/YieldReturnExample/obj/Debug/net7.0/ref/YieldReturnExample.dll
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\bin\Debug\net7.0\YieldReturnExample.exe
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\bin\Debug\net7.0\YieldReturnExample.deps.json
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\bin\Debug\net7.0\YieldReturnExample.runtimeconfig.json
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\bin\Debug\net7.0\YieldReturnExample.dll
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\bin\Debug\net7.0\YieldReturnExample.pdb
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\YieldReturnExample.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\YieldReturnExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\YieldReturnExample.AssemblyInfoInputs.cache
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\YieldReturnExample.AssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\YieldReturnExample.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\YieldReturnExample.dll
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\refint\YieldReturnExample.dll
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\YieldReturnExample.pdb
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\YieldReturnExample.genruntimeconfig.cache
+C:\Users\CiprianaPop\Desktop\Linq Code example\Linq\YieldReturnExample\obj\Debug\net7.0\ref\YieldReturnExample.dll

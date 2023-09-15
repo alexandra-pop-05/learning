@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="styleDashboard.css" />
+    <script
+      src="https://kit.fontawesome.com/fbc12a944c.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <nav>
+        <div class="logo-container">
+          <div class="logo">
+            <img
+              src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\Group 405.png"
+              alt="Logo"
+              class="logo-image"
+            />
+          </div>
+        </div>
+        <div class="nav-links">
+          <span id="dashboard-link"> Dashboard </span>
+          <span id="other-link"> Teammates </span>
+          <span id="other-link"> My project </span>
+        </div>
+        <div class="side-container">
+          <div class="side-container-dropdown">
+            <select class="select-options" name="language" id="language">
+              <option value="en">EN</option>
+              <option value="ro">RO</option>
+            </select>
+          </div>
+          <div class="side-container-icon">
+            <img
+              src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\bell-icon.png"
+              alt="Icon"
+              class="icon-image"
+            />
+          </div>
+          <div class="side-container-avatar">
+            <span class="avatar-circle">
+              <div class="avatar-circle-text">JJ</div>
+            </span>
+            <div class="user-info">
+              <span class="user-email">maria.csete@techquarter.io</span>
+              <span class="user-role">User</span>
+            </div>
+            <span class="dropdown-icon">
+              <img
+                src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\dropdown.png"
+                alt="Icon"
+                class="dropdown-image"
+              />
+            </span>
+          </div>
+        </div>
+      </nav>
+      <div class="welcome">
+        <span>Hi, Maria!</span>
+      </div>
+      <div class="upper-left-container">
+        <div class="upper-left-container-search-text">Quick Search</div>
+        <div class="search-text">Search</div>
+        <div class="search-container">
+          <div class="search-input">
+            <input
+              type="text"
+              class="search-input-field"
+              placeholder="Type here"
+            />
+            <img
+              src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\search-icon.png"
+              alt="Icon"
+              class="search-icon-image"
+            />
+          </div>
+
+          <button class="search-button">
+            <div class="search-button-text">Search</div>
+          </button>
+          <button class="refresh-button">
+            <img
+              src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\refresh.png"
+              alt="Icon"
+              class="refresh-icon-image"
+            />
+          </button>
+        </div>
+        <div class="updates-container">
+          <div class="last-updates">Last Updates</div>
+          <div class="last-updates-users">
+            Maria Csete, Alex Natea, Andreea Raduch, Alex Muresan
+          </div>
+        </div>
+      </div>
+      <div class="upper-right-container">
+        <div class="notifications-text">Notifications</div>
+        <div class="notifications-information-container">
+          <div class="user-notification">
+            Tudor Cipariu approved your time-off request.
+            <img
+              src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\chevron-down.png"
+              alt="Icon"
+              class="chevron-down-image"
+            />
+          </div>
+          <div class="user-notification-datetime">12/6/2023 13:34</div>
+        </div>
+        <div class="notifications-information-container">
+          <div class="user-notification">
+            Tudor Cipariu approved your time-off request.
+            <img
+              src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\chevron-down.png"
+              alt="Icon"
+              class="chevron-down-image"
+            />
+          </div>
+          <div class="user-notification-datetime">12/6/2023 13:34</div>
+        </div>
+        <div class="notifications-information-container">
+          <div class="user-notification">
+            Tudor Cipariu approved your time-off request.
+            <img
+              src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\chevron-down.png"
+              alt="Icon"
+              class="chevron-down-image"
+            />
+          </div>
+          <div class="user-notification-datetime">12/6/2023 13:34</div>
+        </div>
+      </div>
+
+      <div class="bottom-container">
+        <span class="calendar-header">
+          <span class="calendar-title">Your Calendar</span>
+          <span class="calendar-buttons">
+            <button class="button-time-off">Request Time Off</button>
+            <button class="button-medical-leave">Request Medical Leave</button>
+          </span>
+        </span>
+        <span class="calendar-user-info">
+          <span class="free-days-title">Free days</span>
+          <span class="free-days-left">24 days left of 2023</span>
+          <span class="last-holiday-title">Last Holiday</span>
+          <span class="last-holiday-date">12/3/2023-24/3/2023</span>
+          <span class="next-holiday-title">Next Holiday</span>
+          <span class="next-holiday-date">12/3/2023-24/3/2023</span>
+          <span class="more-button">
+            <span class="more-text">MORE</span>
+            <i class="fa-solid fa-chevron-right"></i>
+          </span>
+        </span>
+
+        <div class="calendar-container">
+          <div class="calendar-filtering">
+            <span class="year-navigation-container">
+              <img
+                src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\chevron-down.png"
+                alt="Icon"
+                class="left-arrow-image-calendar"
+              />
+              <span class="month-year"> JUNE 2023 </span>
+              <img
+                src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\chevron-down.png"
+                alt="Icon"
+                class="right-arrow-image-calendar"
+              />
+            </span>
+            <span class="date-filtering">
+              <span class="first-day">First Day</span>
+              <select class="day-container" name="week-day-container" id="week">
+                <option class="day-container-option" value="Monday">
+                  Monday
+                </option>
+                <option class="day-container-option" value="Tuesday">
+                  Tuesday
+                </option>
+                <option class="day-container-option" value="Wednesday">
+                  Wednesday
+                </option>
+                <option class="day-container-option" value="Thursday">
+                  Thursday
+                </option>
+                <option class="day-container-option" value="Friday">
+                  Friday
+                </option>
+                <option class="day-container-option" value="Saturday">
+                  Saturday
+                </option>
+                <option class="day-container-option" value="Sunday">
+                  Sunday
+                </option>
+                <!--  <input type="week" class="week-day-input"> -->
+                <img
+                  src="C:\Users\CiprianaPop\Desktop\frontend\dashboard\dropdown.png"
+                  alt="Icon"
+                  class="dropdown-image-calendar"
+                />
+              </select>
+              <span class="jump-tp-date">Jump to Date</span>
+              <input type="date" class="date-input" />
+            </span>
+          </div>
+
+          <div class="events-calendar">
+            <div class="events-calendar-header">
+              <span class="day-name-sunday">Sunday</span>
+              <span class="day-name">Monday</span>
+              <span class="day-name">Tuesday</span>
+              <span class="day-name">Wednesday</span>
+              <span class="day-name">Thursday</span>
+              <span class="day-name">Friday</span>
+              <span class="day-name-saturday">Saturday</span>
+            </div>
+            <div class="events-calendar-body">
+              <div class="content-day-free"></div>
+              <div class="content-day-free"></div>
+              <div class="content-day-free"></div>
+              <div class="content-day-free"></div>
+              <div class="content-day-free"></div>
+              <div class="content-day-free"></div>
+              <div class="content-day">
+                <div class="day-number">01</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">02</div>
+              </div>
+              <div class="content-day">
+                <div class="content-day-message"></div>
+                <div class="day-number">03</div>
+              </div>
+              <div class="content-day">
+                <div class="content-day-message"></div>
+                <div class="day-number">04</div>
+              </div>
+              <div class="content-day">
+                <div class="content-day-message"></div>
+                <div class="day-number">05</div>
+              </div>
+              <div class="content-day">
+                <div class="content-day-message"></div>
+                <div class="day-number">06</div>
+              </div>
+              <div class="content-day">
+                <div class="content-day-message"></div>
+                <div class="day-number">07</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">08</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">09</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">10</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">11</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">12</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">13</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">14</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">15</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">16</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">17</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">18</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">19</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">20</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">21</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">22</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">23</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">24</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">25</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">26</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">27</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">28</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">29</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">30</div>
+              </div>
+              <div class="content-day">
+                <div class="day-number">31</div>
+              </div>
+              <div class="overlay">Ioana Out of Office</div>
+            </div>
+          </div>
+          <div class="side-data-title">Data</div>
+          <div class="side-data">
+            <div class="data-text">Select a day to view data.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

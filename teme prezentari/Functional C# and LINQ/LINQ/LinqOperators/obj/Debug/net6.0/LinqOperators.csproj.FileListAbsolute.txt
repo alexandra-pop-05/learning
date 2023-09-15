@@ -1,0 +1,30 @@
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.exe
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.deps.json
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.runtimeconfig.json
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.pdb
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.AssemblyInfoInputs.cache
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.AssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\refint\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.pdb
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.genruntimeconfig.cache
+C:\Users\CiprianaPop\Desktop\project\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\ref\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.exe
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.deps.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.runtimeconfig.json
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\bin\Debug\net6.0\LinqOperators.pdb
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.csproj.AssemblyReference.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.AssemblyInfoInputs.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.AssemblyInfo.cs
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.csproj.CoreCompileInputs.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\refint\LinqOperators.dll
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.pdb
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\LinqOperators.genruntimeconfig.cache
+C:\Users\CiprianaPop\Desktop\teme prezentari\Functional C# and LINQ\LINQ\LinqOperators\obj\Debug\net6.0\ref\LinqOperators.dll

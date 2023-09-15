@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWSITDbwiSIxV8b9lAQn32loCxcX6fsXqEKW/5kjUb65fizNVfqbud/zFxljpyY37tlLeAjN1LqWS4Ml+2lIuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CiprianaPop\\Desktop\\teme prezentari\\ExceptionHandling\\Internship\\NullableTypes\\NullableTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CiprianaPop\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\CiprianaPop\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\CiprianaPop\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
